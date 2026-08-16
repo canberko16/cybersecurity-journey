@@ -8,4 +8,4 @@ Hedef: Application Security ve Penetration Testing alanında çalışmak.
 - Her hafta en az bir dokümante edilmiş çıktı
 
 ## Günlükler
-- Day 01: Networking ve HTTP temelleri
+- [Day 01: Networking ve HTTP temelleri](day-01.md)
