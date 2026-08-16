@@ -25,3 +25,11 @@
 
 ## Yarın
 Linux komut satırı ve dosya izinleri
+
+## Karşılaştığım sorun
+
+OpenCode bağlantısında `certificate is not yet valid` hatası aldım.
+
+- Neden: Windows sistem saati gerideydi.
+- Çözüm: Tarih ve saat ayarlarını otomatik eşitledim.
+- Öğrendiğim: TLS sertifikaları yerel sistem saatine göre geçerlilik kontrolünden geçer.
